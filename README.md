@@ -1,5 +1,14 @@
 # mapping_app_base
 
+https://codelabs.developers.google.com/codelabs/google-maps-in-flutter#3
+  - TODO: stopped mid-way to switch to elixir/phoenix :)
+  - (flutter is certainly not a bad thing though! everything does indeed just work!!)
+
+
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
